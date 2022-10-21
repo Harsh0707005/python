@@ -1,0 +1,2 @@
+I am a file
+And I am made to check to wipe off the content of this file using python program.

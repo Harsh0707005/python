@@ -1,0 +1,2 @@
+I am a file.
+I am made to be renamed as "renamed_by_python.txt"
